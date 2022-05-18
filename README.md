@@ -3,20 +3,19 @@
 </div>
 <h2 text-align="left">Hi, I'm Josey 👋😎</h2>
 <h3 align="center">A Software Developer, IOT Engineer and Writer</h3>
-<h4 align="center">(OH... Yeah, I am also an Advocate for Menstrual Hygiene 😅)</h4>
 <hr/>
 
 ✔Some tips for you
 
--🌱 I’m currently upscaling in DevOps, preparing for my AWS certification and building very **Interesting Projects**
+- 🌱 I’m currently upscaling in DevOps, preparing for my AWS certification and building very **Interesting Projects**
 
--💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
+- 💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
 
--📝 I spend free time doing nature photography and writing poems and stories 📸 
+- 📝 I spend free time doing nature photography and writing poems and stories 📸 
 
--📫 Want to grab a cup a coffee and talk ? Reach me on **josephabuanor@gmail.com**
+- 📫 Want to grab a cup a coffee and talk ? Reach me on **josephabuanor@gmail.com**
 
--⚡ Fun fact **I love Sunsets**
+- ⚡ Fun fact **I love Sunsets**
 
 ### 🌍: Connect With Me On:
 
