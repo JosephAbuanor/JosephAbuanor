@@ -15,7 +15,7 @@
 
 - 📫 Want to grab a cup a coffee and talk ? Reach me on **josephabuanor@gmail.com**
 
-- ⚡ Fun fact: **I love Sunsets**
+- ⚡ Fun fact: **I love Sunsets**🌇
 
 ### 🌍: Connect With Me On:
 
