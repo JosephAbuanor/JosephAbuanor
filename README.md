@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently upscaling in DevOps, preparing for my AWS certification and building very **Interesting Projects**
 
-- 💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
+- 💬 Ask me about **Node, AWS, MongoDB, PostgreSQL,DotNet, ReactJs, PHP, Microservices, Microcontrollers**
 
 - 📝 I spend free time doing nature photography and writing poems and stories 📸 
 
