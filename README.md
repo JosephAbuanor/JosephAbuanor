@@ -7,9 +7,9 @@
 
 ✔Some tips for you
 
-- 🌱 I’m upskilling in DevOps and building very **Interesting Projects**
+- 🌱 I love to learn and build very **Interesting Projects**
 
-- 💬 Ask me about **Node, AWS, MongoDB, PostgreSQL, DotNet, ReactJs, PHP, Microservices, Microcontrollers**
+- 💬 Ask me about **Node, C#, Javascript, AWS, MongoDB, PostgreSQL, ReactJs, PHP, Microservices, Microcontrollers**
 
 - 📝 I spend free time doing nature photography and writing poems and stories 📸 
 
